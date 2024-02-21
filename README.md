@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm João Francisco Perassoli Lopes 👋
 
-<!--
-**jflopes21/jflopes21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://app.rocketseat.com.br/)
 
-Here are some ideas to get you started:
+#### Current stack
+- Frontend: `ReactJs`, `HTML5`, `CSS3`, `Javascript`
+- Backend: `Nodejs`
+- Layout Design: `Figma`
+- Version code control `Git e Github`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- Email: joaofrancisco21@yahoo.com.br
+- Linkedin: https://www.linkedin.com/in/jo%C3%A3o-francisco-perassoli-lopes-42b1581a3/
