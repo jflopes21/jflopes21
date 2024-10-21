@@ -1,7 +1,7 @@
 ### Hi there, I'm João Francisco Perassoli Lopes <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="20px">
 
 #### About
-I'm a Web Developer. And, I'm studying web development at [Rocketseat](https://app.rocketseat.com.br/)
+I'm a Web Developer.
 
 #### Current stack
 - 🎉 Frontend: `ReactJs`, `HTML5`, `CSS3`, `Javascript`
