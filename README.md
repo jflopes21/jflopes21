@@ -1,3 +1,19 @@
+# JFLopes - Showcase | Portfólio Full Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
+
+## 🔗 Live Demo (Ver Projeto em Produção)
+Acesse meu portfólio completo, construído com Next.js App Router e internacionalização (i18n) em 6 idiomas:
+
+# ➡️ [VISITAR PORTFÓLIO: https://jflopes-showcase.vercel.app/pt-br](https://jflopes-showcase.vercel.app/pt-br)
+
+---
+
 Olá! Sou o João Francisco Perassoli Lopes 👋
 
 ### 👨‍💻 Sobre Mim
@@ -9,14 +25,16 @@ Sou um profissional resiliente e proativo, com forte capacidade de aprendizado e
 
 ### 🚀 Minha Stack de Tecnologias
 
-#### 💻 Frontend
+#### 💻 Frontend & Frameworks
 * ⚛️ React
 * 📘 TypeScript
 * 📒 JavaScript
-* 🔶 HTML5
-* 🔷 CSS3
+* 🌐 **Next.js (App Router)** - Para Server Components, Routing e Performance
+* 🌍 **next-intl** - Para internacionalização (i18n)
 * 💨 Tailwind CSS
 * ⚡ Chakra UI
+* 🔶 HTML5
+* 🔷 CSS3
 * 🧪 Jest
 
 #### ⚙️ Backend
@@ -31,6 +49,7 @@ Sou um profissional resiliente e proativo, com forte capacidade de aprendizado e
 #### 🛠️ Ferramentas, DevOps & Arquitetura
 * 🌿 Git
 * 🐳 Docker
+* ⚙️ **Vercel** - Para Deploy Contínuo e Hosting
 * 🧱 SOLID
 * 🧼 Clean Code
 * 🌊 Git Flow
